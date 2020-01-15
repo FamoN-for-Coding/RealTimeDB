@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387335448267",
+    "firebase_url": "https://frealtimedb-590d1.firebaseio.com",
+    "project_id": "frealtimedb-590d1",
+    "storage_bucket": "frealtimedb-590d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387335448267:android:2a71045a67f0165b6d1d4e",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387335448267-nqrisvjekomjdgqvj38ca1fn4cmelfv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdh8p8LkIAYsdLbDk5la5S_Wsw5qFTjE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387335448267-nqrisvjekomjdgqvj38ca1fn4cmelfv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
